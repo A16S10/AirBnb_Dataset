@@ -24,7 +24,11 @@ The dataset can be downloaded from here: https://www.kaggle.com/datasets/dgomono
 
 # Instructions
 Fork this repository
+
 Clone the forked repository
+
 Add your contributions (code or documentation)
+
 Commit and push
+
 Wait for pull request to be merged
