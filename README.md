@@ -7,7 +7,7 @@ The analysis includes feature engineering, data visualization, and business insi
 
 This project can be helpful to anyone who is interested in starting an Airbnb rental in New York City. The insights generated from the analysis can be used to make informed decisions about pricing, location, and other factors.
 
-
+https://github.com/A16S10/AirBnb_Dataset/assets/110720116/fb562e9a-2ffd-441d-bf6f-d8b565421240
 
 # Contributing
 We welcome any and all contributions! Here are some ways you can get started:
